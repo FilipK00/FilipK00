@@ -3,6 +3,9 @@
 ### 👨🏻‍💻 About me
 - 🎓 Cybersecurity, Wrocław University of Science and Technology
 - 💼 Owner: iFil Web Design, Porównaj Solary
+
+### 🛠 Tech stack
+
 <!--
 **FilipK00/FilipK00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
