@@ -18,5 +18,5 @@
 ### 📞 Contact
 - 🔧 kontakt@filipkania.pl
 - 🔧 LinkedIn
-
+- <a href="https://www.linkedin.com/in/filip-kania-00/" rel="nofollow"><img alt="LinkedIn" src="https://drive.google.com/file/d/1nupq7YGyghROxT4ju36znUVWObj4AekE/view?usp=sharing"  style="max-width: 100%;"></a>  </a>
 
