@@ -16,7 +16,7 @@
 - ☁️ <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="css" data-canonical-src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="css" data-canonical-src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
 
 ### 📞 Contact
-- 🔧 kontakt@filipkania.pl
-- 🔧 LinkedIn
-- <a href="https://www.linkedin.com/in/filip-kania-00/" rel="nofollow"><img alt="LinkedIn" src="https://drive.google.com/file/d/1nupq7YGyghROxT4ju36znUVWObj4AekE/view?usp=sharing"  style="max-width: 100%;"></a>  </a>
+- <a href="mailto:kontakt@filipkania.pl" rel="nofollow"> ✉ Mail: kontakt@filipkania.pl </a> 
+- <a href="https://www.linkedin.com/in/filip-kania-00/" rel="nofollow"> 🖥️ LinkedIn: Filip Kania </a>  
+
 
