@@ -1,8 +1,8 @@
 ### Filip Kania
 
 ### 👨🏻‍💻 About me
-🎓 Cybersecurity, Wrocław University of Science and Technology /n
-💼 Owner: iFil Web Design, Porównaj Solary
+- 🎓 Cybersecurity, Wrocław University of Science and Technology /n
+- 💼 Owner: iFil Web Design, Porównaj Solary
 <!--
 **FilipK00/FilipK00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
