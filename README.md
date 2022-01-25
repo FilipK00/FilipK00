@@ -5,6 +5,7 @@
 - 💼 Owner: iFil Web Design, Porównaj Solary
 
 ### 🔗 Links
+- 🌐 My page - www.filipkania.pl
 - 🖥 iFil Web Desing - www.ifil.pl
 - 💡 Porównaj Solary - www.porownajsolary.pl
 
