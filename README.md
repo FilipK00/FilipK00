@@ -8,36 +8,17 @@
 - 🖥 iFil Web Desing - www.ifil.pl
 - 💡 Porównaj Solary - www.porownajsolary.pl
 
+<img src="{BadgeURLHere}" />
+
 ### 🛠 Tech stack
-- 🖥 python / c++ / java / django
+- 🖥 python / c++ / java / django <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
 - 🔧 html / css / javascript / nodejs
 - 🔧 visual code / visual studio / xcode
 - 🔧 photoshop / xd / premiere / after effects / illustrator
 - 🔧 aws / google cloud
 
 ### 📞 Contact
-#### Email
 - 🔧 kontakt@filipkania.pl
-- 🔧 kontakt@ifil-webdesign.pl
-- 🔧 kontakt@porownajsolary.pl
-#### Social
 - 🔧 LinkedIn
-- 🔧 Facebook
 
 
-
-<!--
-**FilipK00/FilipK00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1>Here are some ideas to get you started:</h1>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
--->
