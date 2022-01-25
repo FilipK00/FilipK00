@@ -16,6 +16,7 @@
 - 🔧 aws / google cloud
 
 ### 📞 Contact
+#### Email ok
 ## Email 2
 # Email
 - 🔧 kontakt@filipkania.pl
