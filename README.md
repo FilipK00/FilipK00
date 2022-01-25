@@ -1,4 +1,4 @@
-### Filip Kania
+# Welcome! I'm Filip
 
 ### 👨🏻‍💻 About me
 - 🎓 Cybersecurity, Wrocław University of Science and Technology
@@ -16,12 +16,14 @@
 - 🔧 aws / google cloud
 
 ### 📞 Contact
-#### Email ok
-## Email 2
-# Email
+#### Email
 - 🔧 kontakt@filipkania.pl
 - 🔧 kontakt@ifil-webdesign.pl
 - 🔧 kontakt@porownajsolary.pl
+#### Social
+- 🔧 LinkedIn
+- 🔧 Facebook
+
 
 
 <!--
